@@ -1,5 +1,4 @@
 #Armin Darabi Mahboub
-from audioop import reverse
 import csv
 from statistics import mean
 
