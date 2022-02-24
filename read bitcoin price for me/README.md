@@ -1,0 +1,1 @@
+launch the program so it tells you the bitcoin price by using api and text to sound module
